@@ -20,7 +20,7 @@ task_description: 'There are gaps in the Interstate Highway system, where the ro
   carrying an Interstate shield does not conform to the standards set by the Federal Highway
   Administration (FHWA), the body that sets the regulations for the Interstate Highway System.'
 document:
- repo: https://github.com/juliadenham/Summit_knowledge
- commit: 799f1f0afd57ea4c684eeef71189e9c8ea45d539
- patterns:
-   - gaps_in_interstate_highways.md
+  repo: https://github.com/juliadenham/Summit_knowledge
+  commit: 799f1f0afd57ea4c684eeef71189e9c8ea45d539
+  patterns:
+    - gaps_in_interstate_highways.md
